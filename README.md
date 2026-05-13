@@ -18,7 +18,7 @@ To write a program to implement the Decision Tree Regressor Model for Predicting
 
 5.Display the trained Decision Tree structure using plot_tree() and show the graph using Matplotlib.
 ## Program:
-```
+```python
 /*
 Program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee.
 Developed by: Dharshan G
